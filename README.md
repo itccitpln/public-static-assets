@@ -61,7 +61,7 @@ wp
 
 file-file yang boleh disimpan:
 - file foto (logo, gambar pendukung halaman website)
-- file scripts (library javascript, css)
+- filea scripts (library javascript, css)
 - 
 
 file-file yang tidak boleh disimpan :
