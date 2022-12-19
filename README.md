@@ -31,11 +31,11 @@ This repository is used to store asset files, like photos, logos, scripts, etc p
 ```
 
 ### Explanation
-- Dalam root hanya terdapat folder `reusable` dan project-project.
-- ada folder utama di root, yaitu `reusable`, dan folder `reusable` ini berisi file-file yang dapat dipakai oleh semua project & aplikasi (tidak spesifik). Contohnya, logo, asset email, dll.
-- selain folder `reusable` di root juga ada folder dengan nama sesuai projectnya, dan berisi file-file asset yang spesifik untuk project tersebut saja.
-- sebuah project dapat menggunakan file yang dipakai berulang kali dengan mengambil path file yang terdapat di folder `reusable`.
-- sebuah file spesifik yang digunakan dalam suatu project dapat suatu waktu dipindahkan ke dalam folder `reusable` jika file tersebut ingin digunakan kedalam project lain.
+- Dalam root hanya terdapat folder `reusable` dan folder project-project.
+- Ada folder utama di root, yaitu `reusable`, dan folder `reusable` ini berisi file-file yang dapat dipakai oleh semua project & aplikasi (tidak spesifik). Contohnya, logo, asset email, dll.
+- Selain folder `reusable` di root juga ada folder dengan nama sesuai projectnya, dan berisi file-file asset yang spesifik untuk project tersebut saja.
+- Sebuah project dapat menggunakan file yang dipakai berulang kali dengan mengambil path file yang terdapat di folder `reusable`.
+- Sebuah file spesifik yang digunakan dalam suatu project dapat suatu waktu dipindahkan ke dalam folder `reusable` jika file tersebut ingin digunakan kedalam project lain.
 
 ## Ketentuan
 - Penamaan folder dalam project baik reusable dapat dituliskan berdasarkan isi/kegunaan file dalam folder tersebut
