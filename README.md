@@ -36,7 +36,7 @@ This repository is used to store asset files, like photos, logos, scripts, etc p
 - A project can be used reapetedly by taking a file path inside the `reusable` folder
 - A specific file used in a project can at any time be moved into the `reusable` folder if that file is to be used in another project.
 
-## Ketentuan
+## Rules
 - The naming of folders in reusable project can be written based on the contents/usage of the files in the folder
 - The name of each folder and file must use lowercase letters and the character *dash* (`-`) as a separator.
 
